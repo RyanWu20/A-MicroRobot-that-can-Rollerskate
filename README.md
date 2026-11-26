@@ -73,7 +73,7 @@
 - [训练自己的策略](#训练自己的策略)
 - [License](#license)
 
-> **想从零复刻一台？** 先看 [`docs/复刻指南.md`](docs/复刻指南.md)：含可采购 BOM（XL330 / OpenRB-150 / Pi Zero 2 W / BMI088 / XIAO ESP32S3 Sense 等）、购买关键词、3D 打印分盘说明、装配与刷机最短路径。下面「组装说明」仍是官方装配与接线细则。
+> **想从零复刻一台？** 先看 [`docs/复刻指南.md`](docs/复刻指南.md)：含可采购 BOM（XL330 / OpenRB-150 / Pi Zero 2 W / BMI088 / XIAO ESP32S3 Sense 等）、购买关键词、3D 打印分盘说明、装配与刷机最短路径；并单独说明 **仅有 MacBook Pro M4 + Parallels Win11** 时固件/舵机工具怎么分工。下面「组装说明」仍是官方装配与接线细则。
 
 ---
 
