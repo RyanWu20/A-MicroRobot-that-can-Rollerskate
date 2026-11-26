@@ -73,6 +73,8 @@ Thanks also to open-source tools including [MjLab](https://github.com/mujocolab/
 - [Training Your Own Policies](#training-your-own-policies)
 - [License](#license)
 
+> **Building one from scratch?** See the Chinese replication guide [`docs/复刻指南.md`](docs/复刻指南.md) for a purchasable BOM (XL330, OpenRB-150, Pi Zero 2 W, BMI088, XIAO ESP32S3 Sense, etc.), print-plate notes, and a shortest path from parts to first walk. The Assembly Guide below remains the official mechanical/wiring reference.
+
 ---
 
 ## Project Overview
@@ -164,6 +166,8 @@ Keep the two code directories as siblings: the training scripts export policies 
 ---
 
 ## Assembly Guide
+
+For a full DIY path (BOM with purchase keywords, print plates, budget, schedule), see [`docs/复刻指南.md`](docs/复刻指南.md) (Chinese).
 
 ### 1. Gather the Parts
 
