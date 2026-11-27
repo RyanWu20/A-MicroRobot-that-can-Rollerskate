@@ -73,7 +73,8 @@ Thanks also to open-source tools including [MjLab](https://github.com/mujocolab/
 - [Training Your Own Policies](#training-your-own-policies)
 - [License](#license)
 
-> **Building one from scratch?** See the Chinese replication guide [`docs/复刻指南.md`](docs/复刻指南.md) for a purchasable BOM (XL330, OpenRB-150, Pi Zero 2 W, BMI088, XIAO ESP32S3 Sense, etc.), print-plate notes, and a shortest path from parts to first walk. The Assembly Guide below remains the official mechanical/wiring reference.
+> **Building one from scratch?** See the Chinese replication guide [`docs/复刻指南.md`](docs/复刻指南.md) for a purchasable BOM (XL330, OpenRB-150, Pi Zero 2 W, BMI088, XIAO ESP32S3 Sense, etc.), print-plate notes, and a shortest path from parts to first walk. The Assembly Guide below remains the official mechanical/wiring reference.  
+> **Brain / chat first (head + torso only)?** See [`docs/大脑复刻指南.md`](docs/大脑复刻指南.md) (Chinese): scope evaluation, `make api-dev` on a laptop, and a phased BOM without the 20 servos.
 
 ---
 
@@ -167,7 +168,7 @@ Keep the two code directories as siblings: the training scripts export policies 
 
 ## Assembly Guide
 
-For a full DIY path (BOM with purchase keywords, print plates, budget, schedule), see [`docs/复刻指南.md`](docs/复刻指南.md) (Chinese).
+For a full DIY path (BOM with purchase keywords, print plates, budget, schedule), see [`docs/复刻指南.md`](docs/复刻指南.md) (Chinese). For a brain-first path (chat + head/torso only), see [`docs/大脑复刻指南.md`](docs/大脑复刻指南.md).
 
 ### 1. Gather the Parts
 
